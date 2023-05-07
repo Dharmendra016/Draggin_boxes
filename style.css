@@ -1,0 +1,21 @@
+.paper{
+    width:200px;
+    height:200px;
+    background-color:red;
+    margin:2px;
+    position:absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    user-select: none;
+    color:white
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:100vh;   
+    background-color: black;
+}
